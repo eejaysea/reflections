@@ -8,4 +8,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 	do a diff on the staging area compared to the latest commit	
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-	significant off shoots of new functions	
+	significant off shoots of new functions
+
+How do the diagrams help you visualize the branch structure?
+	They help a little not a lot	
